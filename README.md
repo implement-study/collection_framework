@@ -1,5 +1,6 @@
-## 手写HashMap的相关代码
+## 手写集合的相关代码
 
 B站视频链接 ： 
-- [跳转B站](https://www.bilibili.com/video/BV1SWZrYDEag/)
+- [手写HashMap](https://www.bilibili.com/video/BV1SWZrYDEag/)
+- [手写ArrayList&LinkedList](https://www.bilibili.com/video/BV1Kp5tzGEc5/)
 
